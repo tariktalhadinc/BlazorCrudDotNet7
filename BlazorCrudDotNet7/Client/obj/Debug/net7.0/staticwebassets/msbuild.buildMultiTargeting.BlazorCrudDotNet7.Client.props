@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorCrudDotNet7.Client.props" />
+</Project>

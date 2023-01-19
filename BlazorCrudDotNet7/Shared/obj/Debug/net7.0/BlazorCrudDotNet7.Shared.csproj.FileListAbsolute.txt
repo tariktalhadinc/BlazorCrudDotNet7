@@ -1,0 +1,12 @@
+C:\Users\t.dinc\Desktop\MVC\Blazor\BlazorCrudDotNet7\Shared\bin\Debug\net7.0\BlazorCrudDotNet7.Shared.deps.json
+C:\Users\t.dinc\Desktop\MVC\Blazor\BlazorCrudDotNet7\Shared\bin\Debug\net7.0\BlazorCrudDotNet7.Shared.dll
+C:\Users\t.dinc\Desktop\MVC\Blazor\BlazorCrudDotNet7\Shared\bin\Debug\net7.0\BlazorCrudDotNet7.Shared.pdb
+C:\Users\t.dinc\Desktop\MVC\Blazor\BlazorCrudDotNet7\Shared\obj\Debug\net7.0\BlazorCrudDotNet7.Shared.csproj.AssemblyReference.cache
+C:\Users\t.dinc\Desktop\MVC\Blazor\BlazorCrudDotNet7\Shared\obj\Debug\net7.0\BlazorCrudDotNet7.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.dinc\Desktop\MVC\Blazor\BlazorCrudDotNet7\Shared\obj\Debug\net7.0\BlazorCrudDotNet7.Shared.AssemblyInfoInputs.cache
+C:\Users\t.dinc\Desktop\MVC\Blazor\BlazorCrudDotNet7\Shared\obj\Debug\net7.0\BlazorCrudDotNet7.Shared.AssemblyInfo.cs
+C:\Users\t.dinc\Desktop\MVC\Blazor\BlazorCrudDotNet7\Shared\obj\Debug\net7.0\BlazorCrudDotNet7.Shared.csproj.CoreCompileInputs.cache
+C:\Users\t.dinc\Desktop\MVC\Blazor\BlazorCrudDotNet7\Shared\obj\Debug\net7.0\BlazorCrudDotNet7.Shared.dll
+C:\Users\t.dinc\Desktop\MVC\Blazor\BlazorCrudDotNet7\Shared\obj\Debug\net7.0\refint\BlazorCrudDotNet7.Shared.dll
+C:\Users\t.dinc\Desktop\MVC\Blazor\BlazorCrudDotNet7\Shared\obj\Debug\net7.0\BlazorCrudDotNet7.Shared.pdb
+C:\Users\t.dinc\Desktop\MVC\Blazor\BlazorCrudDotNet7\Shared\obj\Debug\net7.0\ref\BlazorCrudDotNet7.Shared.dll
